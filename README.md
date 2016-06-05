@@ -16,4 +16,4 @@ xml很简单
         android:layout_width="match_parent"
         android:layout_height="20dp"
         android:background="#55cccccc"/>
- 主要逻辑看我写的德莫DEMO
+ 主要逻辑看我写的DEMO
